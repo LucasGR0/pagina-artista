@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: #343a40;
+}
+
+@media (max-width: 576px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+    
+    h2 {
+        font-size: 1.2rem;
+    }
+}
